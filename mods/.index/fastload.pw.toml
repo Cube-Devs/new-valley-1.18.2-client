@@ -1,0 +1,14 @@
+name = "Fastload"
+filename = "Fastload-Reforged-2.6.9+1.18.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/kCpssoSb/versions/AWGFfzNY/Fastload-Reforged-2.6.9%2B1.18.2.jar"
+hash-format = "sha512"
+hash = "644f20372b1d876d68f644e09696b792d4860f230d60b8191732ea40a43e6a6d7675b6d57b0270f9cec8d80e8a5fceba5bbb5fd898ce28fc131bc45a344d69a3"
+
+[update]
+[update.modrinth]
+mod-id = "kCpssoSb"
+version = "AWGFfzNY"
